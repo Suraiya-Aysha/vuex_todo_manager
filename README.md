@@ -1,4 +1,6 @@
-# vuex_todo_manager
+# Vuex Todo Manager
+### Vuex Todo Manager App made using Vuex with API(json data) data.
+## Live Link https://todo-manager-vuex.netlify.app
 
 ## Project setup
 ```
